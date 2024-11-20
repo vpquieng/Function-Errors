@@ -12,6 +12,20 @@
 - **Owner Management**: The contract deployer is set as the owner, though the current version doesn’t include owner-specific actions.
 - **Fallback Ether Handling**: Accepts Ether transfers for refunds.
 
+## Installation  
+### Steps to Deploy  
+1. **Clone the Repository**:  
+```bash
+git clone https://github.com/your-username/Functions-Errors.git
+cd delivery-service
+```
+2. **Compile the Contract**:  
+- Open the simpledelivery.sol file in Remix.
+- Select Solidity version 0.8.26.
+- Compile the contract.
+3. **Deploy**:  
+- Use any Ethereum development environment or Remix IDE to deploy the contract.
+
 ## Contract Details
 
 - **Solidity Version**: `0.8.26`
