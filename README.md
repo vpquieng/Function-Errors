@@ -16,7 +16,7 @@
 ### Steps to Deploy  
 1. **Clone the Repository**:  
 ```bash
-git clone https://github.com/your-username/Functions-Errors.git
+git clone https://github.com/your-username/Function-Errors.git
 cd delivery-service
 ```
 2. **Compile the Contract**:  
